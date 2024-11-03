@@ -2,6 +2,8 @@
 
 This project enhances dialogue summarization and ethical responsiveness in AI using Large Language Models (LLMs), specifically fine-tuning Google's FLAN-T5 model. Our approach leverages Proximal Policy Optimization (PPO) and Reinforcement Learning with Human Feedback (RLHF) to align AI responses with ethical standards and human preferences.
 
+<img width="1101" alt="Screenshot 2024-11-02 at 11 58 31 PM" src="https://github.com/user-attachments/assets/3e70f6f8-4690-44e3-81cf-2c839318f5d3">
+
 # Key Features
 
 * Fine-Tuning with DialogSum: Trained on the DialogSum dataset for improved summarization, capturing conversational intent and sentiment.
